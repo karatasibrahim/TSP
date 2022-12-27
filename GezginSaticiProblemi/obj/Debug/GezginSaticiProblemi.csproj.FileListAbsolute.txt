@@ -1,0 +1,28 @@
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe.config
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.pdb
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.exe
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.pdb
+C:\Users\ibrahim\Desktop\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Gezgin.resources
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe.config
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.exe
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.pdb
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.pdb
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csprojResolveAssemblyReference.cache
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Gezgin.resources
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Properties.Resources.resources
+D:\Mart Klasörü\Masaüstü\Dönem Sonu Projesi\Dönem Sonu Projesi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.GenerateResource.Cache
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe.config
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.pdb
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.AssemblyReference.cache
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Gezgin.resources
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.Properties.Resources.resources
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.GenerateResource.cache
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.CoreCompileInputs.cache
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.exe
+F:\Site İçeriklerim\Gezgin Satıcı Problemi\GezginSaticiProblemi\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.pdb
